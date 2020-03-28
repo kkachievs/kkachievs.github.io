@@ -3,6 +3,13 @@ a {
     color: black;
 }
 
+button{
+    width: 250px;
+    height: 250px;
+    background-color: transparent;
+    border-color: transparent;
+}
+
 img {
     width: 600px;
     height: 600px;
@@ -15,4 +22,3 @@ body {
 h1 {
     color: gold;
 }
-
