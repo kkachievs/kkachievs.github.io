@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f3af5e24-e52d-475d-b077-d04323fbd7b0" name="Default Changelist" comment="" />
+    <list default="true" id="f3af5e24-e52d-475d-b077-d04323fbd7b0" name="Default Changelist" comment="add ram and cpu cooler">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,7 +16,7 @@
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="272">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
@@ -22,8 +24,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pc.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="701">
-              <caret line="71" lean-forward="true" selection-start-line="71" selection-end-line="71" />
+            <state relative-caret-position="720">
+              <caret line="72" lean-forward="true" selection-start-line="72" selection-end-line="72" />
             </state>
           </provider>
         </entry>
@@ -73,9 +75,9 @@
       <list>
         <option value="$PROJECT_DIR$/shoes.html" />
         <option value="$PROJECT_DIR$/css/style.css" />
-        <option value="$PROJECT_DIR$/pc.html" />
         <option value="$PROJECT_DIR$/other.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/pc.html" />
       </list>
     </option>
   </component>
@@ -144,6 +146,7 @@
       <workItem from="1585409810314" duration="1020000" />
       <workItem from="1585453522084" duration="437000" />
       <workItem from="1585455070954" duration="1873000" />
+      <workItem from="1588048238296" duration="569000" />
     </task>
     <task id="LOCAL-00001" summary="add bg, table, imgs and descr">
       <created>1580019702379</created>
@@ -194,18 +197,25 @@
       <option name="project" value="LOCAL" />
       <updated>1585458569651</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="add ram and cpu cooler">
+      <created>1588048753450</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1588048753450</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25829000" />
+    <option name="totallyTimeSpent" value="26398000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49585798" visible="true" weight="0.26618123" />
-      <window_info active="true" id="Structure" order="1" sideWeight="0.504142" side_tool="true" visible="true" weight="0.26618123" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49467456" visible="true" weight="0.27022654" />
+      <window_info active="true" id="Structure" order="1" sideWeight="0.50532544" side_tool="true" visible="true" weight="0.27022654" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -278,21 +288,15 @@
     <MESSAGE value="fix2" />
     <MESSAGE value="add lock items" />
     <MESSAGE value="add new page (other)" />
-    <option name="LAST_COMMIT_MESSAGE" value="add new page (other)" />
+    <MESSAGE value="add ram and cpu cooler" />
+    <option name="LAST_COMMIT_MESSAGE" value="add ram and cpu cooler" />
     <option name="UPDATE_GROUP_BY_PACKAGES" value="true" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
@@ -310,10 +314,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pc.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="701">
-          <caret line="71" lean-forward="true" selection-start-line="71" selection-end-line="71" />
+        <state relative-caret-position="720">
+          <caret line="72" lean-forward="true" selection-start-line="72" selection-end-line="72" />
         </state>
       </provider>
     </entry>
