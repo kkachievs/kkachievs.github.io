@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f3af5e24-e52d-475d-b077-d04323fbd7b0" name="Default Changelist" comment="">
+    <list default="true" id="f3af5e24-e52d-475d-b077-d04323fbd7b0" name="Default Changelist" comment="add gpu">
+      <change afterPath="$PROJECT_DIR$/img/1660s.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pc.html" beforeDir="false" afterPath="$PROJECT_DIR$/pc.html" afterDir="false" />
     </list>
@@ -25,8 +26,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pc.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="701">
-              <caret line="74" lean-forward="true" selection-start-line="74" selection-end-line="74" />
+            <state relative-caret-position="1200">
+              <caret line="75" lean-forward="true" selection-start-line="75" selection-end-line="75" />
             </state>
           </provider>
         </entry>
@@ -52,6 +53,9 @@
   <component name="Git.Settings">
     <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="863bb52e-bba4-4ecc-96ce-1571515ac1a5" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -130,7 +134,8 @@
       <workItem from="1585453522084" duration="437000" />
       <workItem from="1585455070954" duration="1873000" />
       <workItem from="1588048238296" duration="842000" />
-      <workItem from="1589031041247" duration="1337000" />
+      <workItem from="1589031041247" duration="1562000" />
+      <workItem from="1592228617518" duration="1237000" />
     </task>
     <task id="LOCAL-00001" summary="add bg, table, imgs and descr">
       <created>1580019702379</created>
@@ -195,18 +200,24 @@
       <option name="project" value="LOCAL" />
       <updated>1588048932323</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="add cpu and ssd">
+      <created>1589032404210</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1589032404210</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28008000" />
+    <option name="totallyTimeSpent" value="29470000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4934911" visible="true" weight="0.27427185" />
-      <window_info active="true" id="Structure" order="1" sideWeight="0.5065089" side_tool="true" visible="true" weight="0.27427185" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49289098" visible="true" weight="0.27912623" />
+      <window_info id="Structure" order="1" sideWeight="0.507109" side_tool="true" visible="true" weight="0.27912623" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -280,17 +291,12 @@
     <MESSAGE value="add lock items" />
     <MESSAGE value="add new page (other)" />
     <MESSAGE value="add ram and cpu cooler" />
-    <option name="LAST_COMMIT_MESSAGE" value="add ram and cpu cooler" />
+    <MESSAGE value="add cpu and ssd" />
+    <MESSAGE value="add gpu" />
+    <option name="LAST_COMMIT_MESSAGE" value="add gpu" />
     <option name="UPDATE_GROUP_BY_PACKAGES" value="true" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/shoes.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="848">
@@ -305,6 +311,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="400">
@@ -314,8 +327,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pc.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="701">
-          <caret line="74" lean-forward="true" selection-start-line="74" selection-end-line="74" />
+        <state relative-caret-position="1200">
+          <caret line="75" lean-forward="true" selection-start-line="75" selection-end-line="75" />
         </state>
       </provider>
     </entry>
