@@ -25,8 +25,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/shoes.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="356">
-              <caret line="29" column="57" selection-start-line="29" selection-start-column="57" selection-end-line="29" selection-end-column="57" />
+            <state relative-caret-position="608">
+              <caret line="53" column="50" lean-forward="true" selection-start-line="53" selection-start-column="50" selection-end-line="53" selection-end-column="50" />
             </state>
           </provider>
         </entry>
@@ -138,7 +138,8 @@
       <workItem from="1593092587561" duration="1114000" />
       <workItem from="1593269840351" duration="539000" />
       <workItem from="1593397430715" duration="22000" />
-      <workItem from="1597560434457" duration="777000" />
+      <workItem from="1597560434457" duration="1277000" />
+      <workItem from="1597818313770" duration="265000" />
     </task>
     <task id="LOCAL-00001" summary="add bg, table, imgs and descr">
       <created>1580019702379</created>
@@ -231,18 +232,25 @@
       <option name="project" value="LOCAL" />
       <updated>1593270341918</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="add cq0449">
+      <created>1597561444590</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1597561444590</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32310000" />
+    <option name="totallyTimeSpent" value="33075000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4888889" visible="true" weight="0.23454158" />
-      <window_info id="Structure" order="1" sideWeight="0.51111114" side_tool="true" visible="true" weight="0.23454158" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.48777777" visible="true" weight="0.23720682" />
+      <window_info id="Structure" order="1" sideWeight="0.51222223" side_tool="true" visible="true" weight="0.23720682" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -320,7 +328,8 @@
     <MESSAGE value="add gpu" />
     <MESSAGE value="add monitor" />
     <MESSAGE value="add hdd" />
-    <option name="LAST_COMMIT_MESSAGE" value="add hdd" />
+    <MESSAGE value="add cq0449" />
+    <option name="LAST_COMMIT_MESSAGE" value="add cq0449" />
     <option name="UPDATE_GROUP_BY_PACKAGES" value="true" />
   </component>
   <component name="editorHistoryManager">
@@ -328,13 +337,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
           <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
         </state>
       </provider>
     </entry>
@@ -355,10 +357,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/shoes.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="356">
-          <caret line="29" column="57" selection-start-line="29" selection-start-column="57" selection-end-line="29" selection-end-column="57" />
+        <state relative-caret-position="608">
+          <caret line="53" column="50" lean-forward="true" selection-start-line="53" selection-start-column="50" selection-end-line="53" selection-end-column="50" />
         </state>
       </provider>
     </entry>
